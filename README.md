@@ -1,6 +1,5 @@
 # Landing Page — Catálogo de Productos
 
-<<<<<<< HEAD
 ## Descripción
 
 Landing page comercial desarrollada para presentar y promocionar los productos de un emprendimiento familiar, brindándole presencia en internet y facilitando que potenciales clientes puedan conocer su catálogo.
@@ -35,6 +34,3 @@ El proyecto busca ofrecer una experiencia visual atractiva, intuitiva y adaptabl
 Desarrollado por Mariano Hernández.
 
 
-=======
-Página de muestra de productos para emprendimiento.
->>>>>>> f5bfc0b309669892f638fd4c03906206a4932de3
